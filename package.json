@@ -1,0 +1,6 @@
+{
+  "name": "ai-copy-localizer-server",
+  "version": "1.0.0",
+  "description": "Backend para AI Copy Localizer - Figma plugin",
+  "engines": { "node": "18.x" }
+}
